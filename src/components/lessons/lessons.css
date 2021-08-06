@@ -1,0 +1,14 @@
+.lessons-list {
+  list-style: none;
+  margin: auto;
+  width: 80%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 15%;
+}
+
+.lessons-list > li {
+  display: inline-block;
+  margin-right: 36px;
+  margin-top: 60px;
+}

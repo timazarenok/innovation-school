@@ -1,0 +1,21 @@
+.kindergarten-info-cards > li > .title {
+  font-size: 16px;
+  font-family: 'Lora';
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.kindergarten-info-cards > li > .description {
+  font-size: 16px;
+  font-family: 'Montserrat';
+  line-height: 24px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.kindergarten-info-cards > li > .number {
+  font-size: 16px;
+  font-family: 'Montserrat';
+  line-height: 24px;
+  font-weight: 700;
+}

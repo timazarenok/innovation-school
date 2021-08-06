@@ -1,0 +1,84 @@
+.footer {
+  display: block;
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.footer-email {
+  line-height: 24px;
+  font-size: 16px;
+  font-family: "Montserrat";
+  font-weight: normal;
+}
+
+.footer-items {
+  display: flex;
+}
+
+.footer-header-items {
+  display: block;
+  margin-left: 120px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+
+.footer-header-items > .nav-item {
+  padding: 5px;
+  font-family: "Montserrat";
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.places,
+.socials {
+  list-style: none;
+  padding: 0px;
+}
+
+.places {
+  margin-left: 200px;
+  width: 50%;
+}
+
+.places > li {
+  display: inline-block;
+  margin: 50px;
+}
+
+.footer-info {
+  display: block;
+  margin-top: 65px;
+}
+
+.footer-title {
+  margin-top: 180px;
+  line-height: 28px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Lora";
+  margin-bottom: 20px;
+}
+
+.socials > li {
+  display: inline-block;
+  margin-right: 30px;
+}
+
+.comapny-info-block {
+  display: flex;
+  margin-left: 120px;
+  padding-bottom: 20px;
+}
+
+.company-info {
+  font-size: 14px;
+  line-height: 18px;
+  font-family: "Montserrat";
+  padding: 15px;
+}
+
+.footer-logo {
+  text-align: center;
+  width: 76px;
+  height: 58px;
+}

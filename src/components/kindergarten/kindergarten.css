@@ -1,0 +1,48 @@
+.kindergarten-first-block {
+  margin-top: 10px;
+  margin-left: 70px;
+  background-color: #e9e9e9;
+  padding-bottom: 120px;
+}
+
+.kindergarten-second-block {
+  background-color: #e5e5e5;
+  padding-bottom: 120px;
+}
+
+.flex-block > .secondblock-text {
+  color: black;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: "Montserrat";
+  width: 550px;
+  padding-left: 120px;
+  padding-top: 80px;
+}
+
+.flex-block > .kindergarten-image {
+  width: 900px;
+  height: 370px;
+  border: 2px solid black;
+  padding-left: 35px;
+  bottom: 100px;
+  position: relative;
+  margin-left: 50px;
+}
+
+.kindergarten-second-block > .flex-block {
+  display: flex;
+}
+
+.kindergarten-second-block > .title {
+  font-family: "Lora";
+  color: black;
+  font-size: 48px;
+  line-height: 62px;
+  padding-left: 120px;
+  padding-bottom: 50px;
+}
+
+.kindergarten-third-block {
+
+}

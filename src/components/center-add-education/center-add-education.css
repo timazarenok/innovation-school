@@ -1,0 +1,40 @@
+.lesssons-block {
+  background-color: #E5E5E5;
+}
+
+.center-first-block {
+  margin-top: 10px;
+  margin-left: 70px;
+  padding-bottom: 130px;
+  background-color: #e9e9e9;
+}
+
+.center-second-block {
+  display: flex;
+  background-color: #e5e5e5;
+}
+
+.center-image {
+  width: 630px;
+  height: 490px;
+  padding-left: 120px;
+  bottom: 50px;
+  position: relative;
+}
+
+.csb-title {
+  padding-left: 35px;
+  padding-top: 80px;
+  font-size: 32px;
+  line-height: 42px;
+  font-family: 'Lora';
+}
+
+.csb-text {
+  font-family: 'Montserrat';
+  font-size: 16px;
+  line-height: 24px;
+  width: 480px;
+  padding-left: 35px;
+  padding-top: 35px;
+}

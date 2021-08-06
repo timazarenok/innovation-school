@@ -1,0 +1,18 @@
+.main-info-block > li {
+  width: 280px;
+  margin-right: 150px;
+  display: inline-block;
+  margin-bottom: 65px;
+}
+
+.card-text {
+  line-height: 24px;
+  font-size: 16px;
+  color: inherit;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.card-image {
+  margin-bottom: 50px;
+}

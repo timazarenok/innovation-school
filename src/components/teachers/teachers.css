@@ -1,0 +1,32 @@
+.teachers-block {
+  padding-top: 120px;
+  background-color: #fefefe;
+}
+
+.teacher-title {
+  font-family: "Lora";
+  font-size: 48px;
+  line-height: 62px;
+  padding-left: 120px;
+}
+
+.teacher-list {
+  list-style: none;
+  display: inline-block;
+  padding-left: 120px;
+  margin-top: 60px;
+  padding-bottom: 30px;
+}
+
+.teacher-list > li {
+  display: inline-block;
+  margin-right: 35px;
+  margin-top: 50px;
+}
+
+.teacher-select {
+  margin-left: 120px;
+  margin-top: 50px;
+  width: 430px !important;
+  background-color: transparent !important;
+}

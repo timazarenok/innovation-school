@@ -1,0 +1,14 @@
+.kindergarten-info-cards {
+  padding: 0px;
+  padding-left: 120px;
+  list-style: none;
+}
+
+.kindergarten-info-cards > li {
+  width: 350px;
+  display: inline-block;
+  padding-right: 35px;
+  padding-top: 50px;
+  vertical-align: top;
+  height: 250px;
+}

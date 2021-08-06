@@ -1,0 +1,41 @@
+.primary-characteristic-list {
+  list-style: none;
+  padding-left: 120px;
+  background-color: #E5E5E5;
+  margin: 0;
+  padding-bottom: 120px;
+}
+
+.primary-characteristic-list > li {
+  display: inline-block;
+  color: black !important;
+  width: 300px;
+  margin-right: 50px;
+  margin-top: 85px;
+  vertical-align: top;
+}
+
+.primary-characteristic-block {
+  background-color: #E5E5E5;
+}
+
+.primary-characteristic-title {
+  color: black;
+  font-family: "Lora";
+  width: 1000px;
+  font-size: 48px;
+  line-height: 62px;
+  padding-left: 120px;
+  padding-bottom: 90px;
+}
+
+.schedule {
+  
+}
+
+.schedule-title {
+  font-size: 48px;
+  line-height: 62px;
+  font-family: "Lora";
+  width: 500px;
+}

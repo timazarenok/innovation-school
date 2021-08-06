@@ -1,0 +1,76 @@
+.navbar {
+  display: flex;
+  top: 0;
+  left: 0;
+  margin-left: 100px;
+  margin-top: 10px;
+  background-color: white;
+  width: 100%-70px;
+  height: 70px;
+}
+
+.navbar-nav {
+  display: flex;
+  margin-top: 10px;
+}
+
+.navbar-brand img {
+  text-align: center;
+}
+
+.social-nav {
+  width: 70px;
+  height: 650px;
+  background-color: #f9f9f9;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding-top: 300px;
+}
+
+.social-nav .nav-item svg {
+  display: inline;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.social-nav > .nav-item {
+  display: inline-flex;
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  transform: rotate(270deg);
+  width: auto;
+  height: 50px;
+  padding: 0px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+.navbar-nav > .nav-item {
+  display: inline-block;
+  padding: 10px;
+  font-size: 16px;
+  height: 35px;
+  text-align: center;
+  width: auto;
+}
+
+.header-button {
+  width: 240px;
+  height: 50px;
+  font-size: 20px;
+  margin-top: 7px;
+  border: none;
+}
+
+.dropdown-item,
+.nav-item span {
+  display: block;
+}
+
+.header-nav {
+  max-height: 70px;
+}
